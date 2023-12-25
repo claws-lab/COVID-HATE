@@ -1,0 +1,1 @@
+the BERT model from the `bert-8-3-5.tar.gz` file can be downloaded from this [link](https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0)
